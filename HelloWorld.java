@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Ich finde GitSchulung toll");
 		System.out.println("Aber diese Sprache, eh!");
 	     System.out.println("I love it, said Hans!");
+		 System.out.println("Ich will auch ein Keks :( !");
 			
 	}
 	  
